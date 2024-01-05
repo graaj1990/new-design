@@ -1,0 +1,631 @@
+{ "home" :{
+      "title" :"Stock Screener & Technical Analysis tool for Indian stock market",
+      "description":" Money tree robo is stock screener, stock analysis and best technical analysis tool for nse stocks. It gives signal alert for all nse stocks.",
+      "author": "Moneytreerobo",
+      "keywords": "stock screener, screener, infy share price, wipro share price, marico share price, yesbank share price, irctc share price, reliance share price, nse heatmap",
+      "canonical":"https://www.mntreecapital.com/"
+    },
+    "marketActivity" :{
+      "title" :"Stock market activity today I fii dii data today I block deals today",
+      "description":"Find the fii dii data, bulk deals, block deals, sector analysis for today, market breadth today,event, corporate actions today for indian stock market",
+      "author": "Moneytreerobo",
+      "keywords": "stock market activity today, fii dii data today, adv dec for nse, adv/dec,  bulk deals today, corporate action today, how to do sector analysis, market breadth today, 52 week high stocks today, 52 week low stock today",
+      "canonical":"https://www.mntreecapital.com/market-activity"
+    },
+    "howToUse" :{
+      "title" :"How to Use choose Intraday stocks I How to Use Money Tree Robo app",
+      "description":" Learn how to choose intraday stocks. Learn how to use money tree robo app. How to choose swing trading stocks & BTST stocks for indian stock market.",
+      "author": "Moneytreerobo",
+      "keywords": "Learn Intraday technique, Learn swing trading, How to choose stocks for Intraday, How to choose stocks for swing trading, How to choose stocks for BTST , BTST stocks",
+      "canonical":"https://www.mntreecapital.com/how-to-use"
+    },
+    "premium" :{
+      "title" :"Money Tree Robo Premium Services I Money Tree Robo Pro+",
+      "description":"Find the different types of Money Tree Robo premium services for Indian stock market. Pro+ services includes Pre-market screener, Fundamental Stock Screener, Indicator stock screener, Auto signal, EOD stock screener, Stock signal, Stock signal alert for NSE stocks",
+      "author": "Moneytreerobo",
+      "keywords": "Pre-market screener, Fundamental stock screener, Indicator stock screener, Stock Signal, Stock signal alert, Signal Alert for F&O stocks",
+      "canonical":"https://www.mntreecapital.com/premium"
+    },
+    "subscription" :{
+      "title" :"Money Tree Robo Pro+ I F&O stocks I PMS Services",
+      "description":"Get the right stocks at right time by robo for swing trading, Intraday stocks, BTST stocks, Positional trading stocks",
+      "author": "Moneytreerobo",
+      "keywords": "Intraday stocks for today, Momentum stocks for today, Swing trading stock for today, Best swing trading stocks, Best swing trade stocks, swing stocks, Best intraday stocks for today",
+      "canonical":"https://www.mntreecapital.com/subscription"
+    },
+    "subscriptionFeature" :{
+      "title" :"Money Tree Robo Pro+ I F&O stocks I PMS Services",
+      "description":"Get the right stocks at right time by robo for swing trading, Intraday stocks, BTST stocks, Positional trading stocks",
+      "author": "Moneytreerobo",
+      "keywords": "Intraday stocks for today, Momentum stocks for today, Swing trading stock for today, Best swing trading stocks, Best swing trade stocks, swing stocks, Best intraday stocks for today",
+      "canonical":"https://www.mntreecapital.com/subscription-feature"
+    },
+    "backTest" :{
+      "title" :"Back Testing, Back Testing Strategy-Money Tree robo",
+      "description":"Get live back testing with many back testing strategy on moving averages, indicators, fundamental analysis, technical analysis & many more.",
+      "author": "Moneytreerobo",
+      "keywords": "back testing, options backtesting, back testing strategy, backtesting options, backtesting trading strategy, portfolio backtest, back testing software",
+      "canonical":"https://www.mntreecapital.com/back-testing"
+    },
+    "heatMap" :{
+      "title" :"Nifty Heatmap, Nifty 50 Heatmap-Money Tree Robo",
+      "description":"Get the heatmap for NSE stocks with live share price of stocks, percentage change, volume analysis, % delivery volume, buy sell signal & stock entry price levels. Get fundamental analysis on this NSE heatmap & discover more.",
+      "author": "Moneytreerobo",
+      "keywords": "heatmap, heatmap map, nifty 50 heatmap, nifty heatmap, banknifty heatmap, heatmap of stock market, future heatmap, nifty heatmap nse, heatmap nifty 50, heatmap stocks, heatmap bank nifty, nse heatmap, stock heatmap, bank nifty heatmap, heatmap for stocks.",
+      "canonical":"https://www.mntreecapital.com/nifty-heatmap"
+    },
+    "intrinsicDashboard" :{
+      "title" :"Intrinsic Value Calculator, Intrinsic Value formula-Money Tree Robo",
+      "description":"Intrinsic Value Calculator: Find intrinsic value of a stock. Calculate the intrinsic value. Get intrinsic value computation, intrinsic value formula & graham fair value calculator & discover more.",
+      "author": "Moneytreerobo",
+      "keywords": "intrinsic value calculator, intrinsic value formula, calculate the intrinsic value, determining intrinsic value, find intrinsic value, instrict value formula, intrinsic value calculate, intrinsic value computation, intrinsic value of stock website, find intrinsic value of a stock, bond intrinsic value, calculate intrinsic value of share, call option intrinsic value formula, formula for intrinsic value of a stock, intrinsic value calculator zerodha",
+      "canonical":"https://www.mntreecapital.com/intrinsic-value-calculator"
+    },
+    "optionChain" :{
+      "title" :"NSE Option Chain Data, Option Chain Aanalysis, Nifty 50 Option Chain",
+      "description":"Nifty 50 Option Chain: Get NSE Option Chain Data with open interest for nse option chain, Nifty 50 option chain, banknifty option chain & do unique option chain analysis to find the Nifty 50 & Bank Nifty direction.",
+      "author": "Moneytreerobo",
+      "keywords": "n s e option chain, bank nifty option chain, nse option chain data, option chain analysis, nifty 50 option chain, option chain nse, option chain, option chain nifty, nifty trader option chain, banknifty option chain, nse option chain data, nse option chain nifty, mcx option chain, bank nifty nse option chain, sensex option chain, option chain data, live nifty option chain, edelweiss option chain, crude oil option chain, nse bank nifty option chain, finnifty option chain, nse live option chain, option screener, option screener india, nse chain, live option chain, option chart, nse option chart",
+      "canonical":"https://www.mntreecapital.com/nse-option-chain-data"
+    },
+    "futureDashboard" :{
+      "title" :"Future and Options, Future Index Stock, Future Index Nifty",
+      "description":"Future and Options: Get future index stock, nifty index futures, Nifty future price, bank nifty future and stocks option data. Also get lots of valuable information like open interest, change in nifty open interest, no of trades, price change, volume change & discover more.",
+      "author": "Moneytreerobo",
+      "keywords": "future and options, future index stock, index futures, nifty index futures, market index futures, future & options, future indian stocks, future stocks list, future stocks, future stocks market, future stocks list in nse, future stocks in india, best future stocks, future stocks india, nifty future stocks, future stocks to buy, future stocks in nse, f&o stocks list, f&o stocks list nse, future stock options, future stocks, bank nifty index futures, index future contract.",
+      "canonical":"https://www.mntreecapital.com/future-and-options"
+    },
+    "tradingTerminal" :{
+      "title" :"Best Trading Terminal, Trading Terminal Software-Money Tree robo",
+      "description":"Get best trading terminal for india with lots of intraday parameters to show with stocks signal & index signal. Get Buy Above levels for Nifty, bank nifty. Sell below levels for index, Stocks and Options. Explore more.",
+      "author": "Moneytreerobo",
+      "keywords": "trading terminal, best trading terminal, best trading terminal india, trading terminal india, trading platform best, trading platform in india, option terminal, trading terminal setup, kotak trading terminal, nest trading terminal.",
+      "canonical":"https://www.mntreecapital.com/trading-terminal"
+    },
+    "premiumServices" :{
+      "title" :"Money Tree Robo Premium Services I Future & Option Premium Services",
+      "description":"Explore Pro+ services like stock screener, pre-market screener, fundamental screener, Indicator screener, Nifty signal, Bank Nifty signal, Stocks signal alerts, Auto signal alerts, Nifty and bank Nifty alerts",
+      "author": "Moneytreerobo",
+      "keywords": "Indicators stocks scanner, Fundamental stocks scanner, Pre-market stocks scanner",
+      "canonical":"https://www.mntreecapital.com/premium-services"
+    },
+    "whyus" :{
+      "title" :"Why should you use Money Tree Robo or buy premium services?",
+      "description":"Money has solved the problem traders & investors WHAT TO BUY, WHEN TO BUY , WHEN TO SELL & WHEN TO HOLD",
+      "author": "Moneytreerobo",
+      "keywords": "Buy Above levels for Nifty, Buy above levels for bank Nifty, Sell Below levels of Nifty today, Sell below levels of bank nifty today. ",
+      "canonical":"https://www.mntreecapital.com/why-us"
+    },
+    "todayActivity" :{
+      "title" :"FII DII Data NSE, FII DII Data Today-Money Tree Robo",
+      "description":"FII DII Data NSE : Get FII DII data today for NSE stocks, Future stocks, Option index & stocks data for cash & options. Analyze FII and DII data to find buying & selling by FII & DII in the Indian stock market & discover more.",
+      "author": "Moneytreerobo",
+      "keywords": "FII DII data, FII DII data today, FII and DII data, FII activity, FII & DII trading activities, FII full form, DII full form, FII activity today, FII activity nse, sensibull fii dii data, live fii dii data, fii & dii data today, fii and dii data nse",
+      "canonical":"https://www.mntreecapital.com/fii-dii-data-nse"
+    },
+    "fiiDii" :{
+      "title" :"FII and DII data for cash, future & option market I FII activity today",
+      "description":"Get FII DII activity for cash & future market for stocks & index options daily. Analyze daily, weekly & monthly FII DII activity for better market direction.",
+      "author": "Moneytreerobo",
+      "keywords": "FII DII data, DII activity, FII today activity",
+      "canonical":"https://www.mntreecapital.com/fii-dii"
+    },
+    "advDec" :{
+      "title" :"Advance Decline Ratio NSE, Advance Decline Ratio Today",
+      "description":"Advance decline ratio nse: Get advance decline ratio today of nse stocks. Advance decline ratio is an indicator of market breadth. Analyze advance decline data to find patterns & discover more.",
+      "author": "Moneytreerobo",
+      "keywords": "advance decline ratio today, advance decline ratio, advance decline ratio nse, nse advance decline ratio, today advance decline ratio, advance decline ratio live, nse advance decline ratio live, advance decline ratio bse, advance decline ratio nifty 50",
+      "canonical":"https://www.mntreecapital.com/advance-decline-ratio-nse"
+    },
+    "newWHL" :{
+      "title" :"52 weeks low stocks I 52 week high stocks",
+      "description":"If daily, no of new 52 week high stocks are increasing , means the market is very strong. If daily, no of new 52 weeks low stocks are making, means market is week",
+      "author": "Moneytreerobo",
+      "keywords": "52 weeks high stocks, 52 week low stocks, 52 week high today, stocks at 52 week low",
+      "canonical":"https://www.mntreecapital.com/new-fifty-two"
+    },
+    "blockdeals" :{
+      "title" :"Block Deals NSE, Block Deals Today-Money Tree Robo",
+      "description":"Block Deals NSE: Get a list of block deals done on NSE and BSE by end of the day. Also get all information related to block deals today. Find who bought in block deals and who sell in this block deals & explore more.",
+      "author": "Moneytreerobo",
+      "keywords": "block deals, block deal, block deals today, block deals nse, block deals nse today, block deal today, block deals bse, intraday block deals",
+      "canonical":"https://www.mntreecapital.com/block-deals-nse"
+    },
+    "bulkdeals" :{
+      "title" :"Bulk Deals NSE, Bulk Deals Today-Money Tree Robo",
+      "description":"Bulk Deals NSE: Get a list of bulk deals done on NSE and BSE by end of the day. Also get all information related to bulk deals today. Find who bought in bulk deals and who sell in this bulk deals & explore more.",
+      "author": "Moneytreerobo",
+      "keywords": "bulk deals, bulk deal, bulk deals today, bulk deals nse, bulk deals nse today, bulk deal today, bulk deals on bse, intraday bulk deals, today bulk deals in nse",
+      "canonical":"https://www.mntreecapital.com/bulk-deals-nse"
+    },
+    "sectorAnalysis" :{
+      "title" :"Sector Analysis of NSE stocks I How to do sector analysis I Top down investing approach",
+      "description":"Learn top down approach of investing. How to do sector analysis of nse stocks. Spot the best stocks with the best performing sector.",
+      "author": "Moneytreerobo",
+      "keywords": "Sector analysis, Top down approach of investing, Best performing sector, Best performing industries",
+      "canonical":"https://www.mntreecapital.com/sector-analysis"
+    },
+    "putCallRatio" :{
+      "title" :"Put Call Ratio, Nifty Put Call Ratio-Money Tree Robo",
+      "description":"Put Call Ratio: Get nifty put call ratio, bank nifty put call ratio to find Nifty and bank nifty direction. Predict Nifty direction through put call ratio.",
+      "author": "Moneytreerobo",
+      "keywords": "put call ratio, nifty put call ratio, what is put call ratio, bank nifty put call ratio, nse put call ratio, call and put, put call ratio nse, put call ratio live, put call ratio today",
+      "canonical":"https://www.mntreecapital.com/put-call-ratio"
+    },
+    "indiaVix" :{
+      "title" :"India Vix Today, India Vix Live, India Vix index, India Vix Share Price",
+      "description":"India Vix Today: Get historical india vix and find pattern of india vix movement and get idea of market direction. Aso find india vix share price and explore more.",
+      "author": "Moneytreerobo",
+      "keywords": "india vix, india vix today, india vix live, india vix share price, india vix index, india vix chart, india vix live chart",
+      "canonical":"https://www.mntreecapital.com/india-vix"
+    },
+    "marketBreadth" :{
+       "title" :"Best way to find stock market direction I Find best sector to trade today",
+      "description":"Get sector movement of nse stocks. Find which sector has greater advance decline or % up move stocks. Choose the best performing sector & its stocks. ",
+      "author": "Moneytreerobo",
+      "keywords": "how to find nifty direction, how to analyze market direction, best performing sector today",
+      "canonical":"https://www.mntreecapital.com/market-breadth" 
+    },
+    "derivative" :{
+      "title" :"NSE Derivative data I Nifty & Bank Nifty data",
+      "description":"Get daily NSE derivative data & Historical derivative data. Analyze Nifty 50 movement with respect to F&O derivative data.",
+      "author": "Moneytreerobo",
+      "keywords": "derivative,nse derivative data, F&O derivative datas, nse f&o data, historical derivative datas",
+      "canonical":"https://www.mntreecapital.com/derivative"
+    },
+    "fiifno" :{
+      "title" :"FII DII data I FII DII F&O data I FII activity",
+      "description":"Get daily FII DII Future & Option data. Find the historical fii dii f&o data like index option, Index future, stocks future data, stocks option data.",
+      "author": "Moneytreerobo",
+      "keywords": "fii dii data, fii data, fii activity, dii activity, F&O data, today fii data",
+      "canonical":"https://www.mntreecapital.com/fii-fno"
+    },
+    "event" :{
+      "title" :"Today’s company event I Dividend news today I Bonus issues news I split issues news",
+      "description":"Get this marvelous information regarding company like dividend news, bonus news, split news , AGM meeting etc. ",
+      "author": "Moneytreerobo",
+      "keywords": "Dividend, split, bonus, dividend stocks",
+      "canonical":"https://www.mntreecapital.com/event"
+    },
+    "corporateAction" :{
+      "title" :"Corporate action today I NSE stocks news today",
+      "description":"Get daily corporate action list of companies. Find the dividend news, split news, bonus news, ex dividend date, AGM date of NSE companies.",
+      "author": "Moneytreerobo",
+      "keywords": "Corporate news today, corporate action today, bonus announcement today, split announcement today, dividend announcement today",
+      "canonical":"https://www.mntreecapital.com/corporate-action"
+    },
+    "login" :{
+      "title" :"Welcome to the Money Tree Robo Stock screener",
+      "description":"Money tree robo is unique & fully refined stock screener for indian stock market. It is best for intraday trading, BTST, STBT & swing trading.",
+      "author": "Moneytreerobo",
+      "keywords": "best intraday software, best nifty option trading, best strategy for intraday trading, btst, stbt, swing trading",
+      "canonical":"https://www.mntreecapital.com/login"
+    },
+    "registration" :{
+      "title" :"Welcome to the Money tree robo registration",
+      "description":"Find the best stocks for intraday, positional trading, swing trading & levels for nifty & bank nifty future & option trading.",
+      "author": "Moneytreerobo",
+      "keywords": "best stocks for intraday trading, best strategy for future & option trading",
+      "canonical":"https://www.mntreecapital.com/registration"
+    },
+    "termsandcondition" :{
+      "title" :"Welcome to the Money tree robo terms & conditions",
+      "description":"We are not sebi register advisor. Please read our terms & conditions. Every advice is given for learning purposes. It is not our recommendation.",
+      "author": "Moneytreerobo",
+      "keywords": "robo stock advice, robo stock tips, jackpot stocks, Intraday stock tips",
+      "canonical":"https://www.mntreecapital.com/terms-and-condition"
+    },
+    "refundpolicy" :{
+      "title" :"Welcome to the Money tree robo refund policy",
+      "description":"Read our refund policy before buying any premium services. ",
+      "author": "Moneytreerobo",
+      "keywords": "Money tree refund policy, refund policy, premium services of money tree robo",
+      "canonical":"https://www.mntreecapital.com/refund-policy"
+    },
+    "privacypolicy" :{
+      "title" :"Welcome to money tree robo privacy policy",
+      "description":"Read carefully our privacy policy before registration. We don’t share any personal information with any third party. Information are only for providing new update about our services & features",
+      "author": "Moneytreerobo",
+      "keywords": "privacy policy, third party, personal information",
+      "canonical":"https://www.mntreecapital.com/privacy-policy/"
+    },
+    "about" :{
+      "title" :"Welcome to Money tree robo story",
+      "description":"Money tree robo is  focussing on developing best in class stock market app and advisory services through app & website. It is India's best technical information website & app.",
+      "author": "Moneytreerobo",
+      "keywords": "best stock market app, best stock market website, India’s best stock screener, best technical analysis website, best technical analysis app",
+      "canonical":"https://www.mntreecapital.com/about"
+    },
+    "myAccount" :{
+      "title" :"Welcome to the Money tree robo my account",
+      "description":"Find the validity, subscription,personal information in money tree robo.",
+      "author": "Moneytreerobo",
+      "keywords": "Money tree robo subscription, premium service information",
+      "canonical":"https://www.mntreecapital.com/my-account"
+    },
+    "support" :{
+      "title" :"Welcome to the Money Tree Robo support details",
+      "description":"Find here contact details, email id & more information to contact Money Tree robo",
+      "author": "Moneytreerobo",
+      "keywords": "Money tree robo support, contact details",
+      "canonical":"https://www.mntreecapital.com/support"
+    },
+    "faq" :{
+      "title" :"Welcome to the Money Tree Robo frequently asked questions",
+      "description":"Find the frequently asked question about money tree robo app & website. It is must read for every trader & investor.",
+      "author": "Moneytreerobo",
+      "keywords": "best stock screener india, nse bse, traders, investors, indian investors, indian stock market",
+      "canonical":"https://www.mntreecapital.com/faq"
+    },
+    "watchlist" :{
+      "title" :"How to make watchlist I Daily watchlist I Weekly & Monthly watchlist",
+      "description":"Create your own watchlist for daily, weekly & monthly scanning as per your technical & fundamental analysis. Always keep a permanent watchlist for leaders & liquid stocks to monitor daily.",
+      "author": "Moneytreerobo",
+      "keywords": "mywatchlist, How to create best watchlist, watchlist, intraday watchlist",
+      "canonical":"https://www.mntreecapital.com/watchlist"
+    },
+    "sector" :{
+      "title" :"List of different sector/industries stocks I Readymade watchlist",
+      "description":"Sector listing with their industry stocks. It is a readymade watchlist for every trader & investors",
+      "author": "Moneytreerobo",
+      "keywords": "nse sector list, nse industry list, readymade watchlist, ready made watchlist",
+      "canonical":"https://www.mntreecapital.com/sector"
+    },
+    "portfolio" :{
+      "title" :"How to create portfolio of stocks I Best portfolio of stocks",
+      "description":"Money tree robo allows you to create the best portfolio for NSE stocks. Here you can note down your buying and selling reasons for stocks. Such things matter a lot when you analyze your buying & selling after 3-6 months.",
+      "author": "Moneytreerobo",
+      "keywords": "portfolio management, how to create best portfolio, portfolio, portfolio of stocks, portfolio, portfolio of rakesh jhunjhunwala",
+      "canonical":"https://www.mntreecapital.com/portfolio"
+    },
+    "autosignal" :{
+      "title" :"Live stock screener I Autosignal screener I Intraday screener",
+      "description":"Money tree robo auto signal is a unique & amazing live stock screener for nse stocks. It scans stocks at every 15 minutes on predefined criteria. It is so refined that it acts like a ready-made stock tip for intraday trading.",
+      "author": "Moneytreerobo",
+      "keywords": "live stock screener, nse stock screener, intraday stock screener for nse stocks, live f&o stock screener",
+      "canonical":"https://www.mntreecapital.com/autosignal"
+    },
+    "screener" :{
+      "title" :"End of the day stock screener I EOD stock screener with live updated price",
+      "description":"Get the best end of the day stock screener. It is very much refined which acts like stock tips for the next day, BTST, STBT, positional trading & swing trading.",
+      "author": "Moneytreerobo",
+      "keywords": "end of the day stock screener, eod stock screener, f&o stock screener, nifty 50 stock screener, nse stock screener, swing trading stocks, btst stocks",
+      "canonical":"https://www.mntreecapital.com/screener"
+    },
+    "customizeScreener" :{
+      "title" :"Intraday Screener, Screener for Stocks-Money Tree Robo",
+      "description":"Screener for Stocks: Get intraday screener with breakout information and delivery volume. Also get penny stock screener, multibagger stocks screener, stock scanner & discover more.",
+      "author": "Moneytreerobo",
+      "keywords": "Intraday screener, screener for stocks, screener, screener nse, stock scanner, penny stock screener, screener .in, in screener, screener in, stock screener, screener stock, stock price screener, screener app, screener in app, ticker tape screener, screener india, screener.in login, www screener in, indian stock screener, stocks screener, chartink com screener, screener share price, intraday screener com, screener share, screener stock market, screener share market, fatafat screener, screener login, tradingview screener, screener website, screener results, best indian stock screener, chartink screener for intraday, fatafat stock screener, intraday screener in, stock screener 52 week low, screener list, chartink screener for swing trading, stocks breakout screener, best share screener, free stock screener, free screener stock, nifty 50 screener",
+      "canonical":"https://www.mntreecapital.com/intraday-screener"
+    },
+    "indicatorsScreener" :{
+      "title" :"Indicators based stock screener I Indicators I RSI, MACD,Bollinger band ",
+      "description":"Get refined indicators based scanning. Scan RSI crossing stocks, MACD above zero stocks, Bollinger band crossing stocks & many more indicators",
+      "author": "Moneytreerobo",
+      "keywords": "indicators,rsi, macd indicator, stochastic indicator,bollinger bands,atr indicator, daily rsi, macd crossover, bollinger bands indicator",
+      "canonical":"https://www.mntreecapital.com/indicators-screener"
+    },
+    "fundamentalScreener" :{
+      "title" :"Fundamental stocks screener I Fundamental stocks analysis",
+      "description":"Money tree robo provides unique fundamental screener with nice stock analysis with predefined criteria. Stocks scanning is very much refined to give best results of value stocks & fundamental stocks.",
+      "author": "Moneytreerobo",
+      "keywords": "fundamental stock screener, best fundamental analysis, undervalued stocks, value buying stocks, good fundamental stocks, best fundamental screener ",
+      "canonical":"https://www.mntreecapital.com/fundamental-screener"
+    },
+    "preMarketScreener" :{
+      "title" :"Pre open market I Pre-market analysis I Pre market screener",
+      "description":"Get the best ideas before market opening in pre market screener & pre market analysis.",
+      "author": "Moneytreerobo",
+      "keywords": "pre open market, pre-market, pre market screener",
+      "canonical":"https://www.mntreecapital.com/preMarket-screener"
+    },
+    "freeStockTips" :{
+      "title" :"Today stocks for intraday I Free stock tips I Intraday trading tips",
+      "description":"Get daily free stocks tips, new stock ideas for intraday, swing trading, positional trading, btst, stbt etc.",
+      "author": "Moneytreerobo",
+      "keywords": "today stocks for intraday, free stock tips, intraday trading tips",
+      "canonical":"https://www.mntreecapital.com/free-stock-tips"
+    },
+    "premimumStockTips" :{
+      "title" :"Money tree robo premium stock tips with pro+ services",
+      "description":"Get daily premium stocks tips with pro+ & pro features of the website & mobile app. Get every stock buy/sell signal with target & stop losses",
+      "author": "Moneytreerobo",
+      "keywords": "sureshot stock tips, intraday stocks for sureshot",
+      "canonical":"https://www.mntreecapital.com/premimum-stock-tips"
+    },
+    "niftyStockTips" :{
+      "title" :"Today nifty signal I bank nifty signal I bank nifty today’s levels I today nifty levels",
+      "description":"Get daily nifty and bank nifty signals, buy above and sell below levels with support & resistance, intraday target, short term target, weekly target.",
+      "author": "Moneytreerobo",
+      "keywords": "today’s nifty level, bank nifty levels, nifty trend today, bank nifty trend today, bank nifty support & resistance",
+      "canonical":"https://www.mntreecapital.com/nifty-stock-tips"
+    },
+    "roboFreeStockTips" :{
+      "title" :"Robo stocks tips I Free stock tips I Jackpot tips",
+      "description":"Get live stock tips generated by robo. No human intervention. Accuracy of tips is better than 70%.",
+      "author": "Moneytreerobo",
+      "keywords": "robo stock tips, free stock tips, free intraday tips",
+      "canonical":"https://www.mntreecapital.com/robo-free-stock-tips"
+    },
+    "roboPremiumStockTips" :{
+      "title" :"Robo premium stock tips I Best intraday stock tips",
+      "description":"Money tree robo provides premium stock tips generated by robo. It is part of the Pro+ feature.",
+      "author": "Moneytreerobo",
+      "keywords": "premium stock tips, premium robo tips, sureshot robo tips, sureshot intraday tips",
+      "canonical":"https://www.mntreecapital.com/robo-premium-stock-tips"
+    },
+    "market" :{
+      "title" :"NSE indices I List of indian indices I Sector list I Indian stock market indices",
+      "description":"Find the list of nse indices like cnx 100,cnx 500, cnx energy, cnx pharma, cnx fmcg, cnx psu, cnx it",
+      "author": "Moneytreerobo",
+      "keywords": "cnxit, cnx100, cnxpharma, cnxfmcg",
+      "canonical":"https://www.mntreecapital.com/market"
+    },
+    "globalMarket" :{
+      "title" :"Global market live I Global indices I SGX nifty live",
+      "description":"Find the list of global stock markets with live prices, percentage change, change etc. Get commodity prices gold silver, dollar rupee etc.",
+      "author": "Moneytreerobo",
+      "keywords": "global market, sgxnifty, live sgx nifty , sgx nifty future, sgx nifty futures live",
+      "canonical":"https://www.mntreecapital.com/global-market"
+    },
+    "importantLink" :{
+      "title" :"Best stock market websites for indian stock market",
+      "description":"Find the list of best stock market website links. NSE f&o live data, stock charts, rediff money, economics times, yahoo finance, investing, trading view etc website links.",
+      "author": "Moneytreerobo",
+      "keywords": "nse, rediff money, yahoo finance, investing, moneycontrol, trading view",
+      "canonical":"https://www.mntreecapital.com/important-link"
+    },
+    "commodity" :{
+      "title" :"Commodity live prices I MCX live prices-Money Tree Robo",
+      "description":"Find the live commodity prices for indian commodities like gold trading, silver trading, crude trading. Also get levels & signals for the commodity market.",
+      "author": "Moneytreerobo",
+      "keywords": "Live commodity prices, mcx live, gold live price today, silver liver price today, crude live price today",
+      "canonical":"https://www.mntreecapital.com/commodity"
+    },
+    "commoditySignal" :{
+      "title" :"Commodity levels I Commodity signal I Live commodity prices",
+      "description":"Get levels for commodities like gold, silver, crude, zinc etc for mcx commodities. Find the best levels with buy above & sell below levels",
+      "author": "Moneytreerobo",
+      "keywords": "mcx live data, mcx live 24 rate, mcx live 24, mcx gold live, live mcx prices, commodity signal, gold mcx, silver mcx, crude mcx",
+      "canonical":"https://www.mntreecapital.com/commodity-signal"
+    },
+    "cashPricePattern" :{
+      "title" :"Best price pattern for nse stocks I Analyze Future price pattern",
+      "description":"Analyze the cash price pattern, future price pattern. Get stocks historical prices for cash & get future stocks historical prices for F&O stocks.",
+      "author": "Moneytreerobo",
+      "keywords": "stocks historical data, share price history, stock price data, stocks cash price",
+      "canonical":"https://www.mntreecapital.com/cash"
+    },
+    "futurePricePattern" :{
+      "title" :"Stocks future price history I Future stocks price pattern",
+      "description":"Get the historical stock data for future stocks. Analyze & find your trading secrets & enjoy the stock market.",
+      "author": "Moneytreerobo",
+      "keywords": "future stocks history",
+      "canonical":"https://www.mntreecapital.com/future-stock"
+    },
+    "specialScreener" :{
+      "title" :"Stocks screener I NSE stock screener I Live stock scanning",
+      "description":"Find the list of intraday buy , intraday sell stocks with buy above levels, sell below levels, targets, stop losses.",
+      "author": "Moneytreerobo",
+      "keywords": "intraday stocks for today trading, live intraday tips today",
+      "canonical":"https://www.mntreecapital.com/special-screener"
+    },
+    "stratergy" :{
+      "title" :"Best intraday trading strategies I Define your own strategies",
+      "description":"Define & refine your own trading strategies. Get live scanning results with signal, buy above levels, sell below levels, targets & stop losses",
+      "author": "Moneytreerobo",
+      "keywords": "intraday trading strategies, trading strategies, intraday trading tricks",
+      "canonical":"https://www.mntreecapital.com/stratergy"
+    },
+    "stockIdea" :{
+      "title" :"New stock ideas daily I Live stock ideas daily- Money tree robo",
+      "description":"Get best stock ideas for intraday trading, btst, stbt, positional trading, swing trading techniques",
+      "author": "Moneytreerobo",
+      "keywords": "daily stock ideas, swing trading ideas, positional trading ideas",
+      "canonical":"https://www.mntreecapital.com/stock-idea"
+    },
+    "signalAlert" :{
+      "title" :"Best intraday signal alert for intraday trading I swing trading I positional trading",
+      "description":"Get the right stock at the right time as when it started to move. Receive alert at the right time for stock signal, price levels for nse stocks.",
+      "author": "Moneytreerobo",
+      "keywords": "signal alert, stock price alert",
+      "canonical":"https://www.mntreecapital.com/signal-alert"
+    },
+    "supportAndTarget" :{
+      "title" :"Get support & resistance for every nse stocks I Best intraday levels to trade",
+      "description":"Find the intraday trading levels, support, resistance, target, stop losses. Find the three months high stocks, six month high stocks, 2 yrs high stocks.",
+      "author": "Moneytreerobo",
+      "keywords": " intraday levels, support, resistance, nifty target today, bank nifty target today, wipro target, infy target, reliance share target",
+      "canonical":"https://www.mntreecapital.com/support-and-target"
+    },
+    "tradingTools" :{
+      "title" :"Best intraday stock screener for nse stocks-Money Tree Robo",
+      "description":"Money tree robo trading tools is basically intraday screener with more than 125 trading strategies.",
+      "author": "Moneytreerobo",
+      "keywords": "live intraday scan, live stock screener, best intraday screener, best swing trading tools, intraday trading tools",
+      "canonical":"https://www.mntreecapital.com/trading-tools"
+    },
+    "preMarket" :{
+      "title" :"NSE Pre Market, Pre Market NSE, Pre Open Market-Money Tree Robo",
+      "description":"Pre Market NSE: Get nse pre market data with pre market open price, change in price, volume in pre market, Volume % change in premarket. Also get last 4 days data for all nse stocks and do pre market analysis & explore more.",
+      "author": "Moneytreerobo",
+      "keywords": "nse pre market, pre market nse, pre open market, pre market nifty, pre market sgx nifty, premarket sgx nifty, premarket data nse, pre market nse today, pre-market",
+      "canonical":"https://www.mntreecapital.com/nse-pre-market"
+    },
+    "openInterestAnalysis" :{
+      "title" :"Index open interest analysis I Future stocks open interest analysis",
+      "description":"Get detailed & unique open interest analysis of index & future stocks. Find the unique information of future stocks",
+      "author": "Moneytreerobo",
+      "keywords": "open interest analysis, future stocks nse",
+      "canonical":"https://www.mntreecapital.com/open-interest-analysis"
+    },
+    "watchlistSignal" :{
+      "title" :"Quick, unique & amazing stock signal for your watchlist-Money Tree Robo",
+      "description":"Get quickly & easily signal for your watchlist. Find any signal like intraday buy, jackpot buy, intraday sell, jackpot sell from your all watch list in a single click. ",
+      "author": "Moneytreerobo",
+      "keywords": "jackpot buy stocks, intraday buy stocks, intraday sell stocks, jackpot sell stocks",
+      "canonical":"https://www.mntreecapital.com/watchlist-signal"
+    }, 
+    "marketSignal" :{
+      "title" :"How to get nifty direction I How to get bank nifty direction I Nifty 50 signal",
+      "description":"Find nifty, bank nifty signal with buy above, sell below levels,support & resistance for today and short term to long term.",
+      "author": "Moneytreerobo",
+      "keywords": "nifty levels today, nifty resistance today,nifty 50 levels today, nifty signal today, nifty direction today, banknifty direction today",
+      "canonical":"https://www.mntreecapital.com/market-signal"
+    },
+    "chartAndPrice" :{
+      "title" :"Chart & levels I NSE stocks chart & levels I Nifty’s levels today",
+      "description":"Plot chart of any stock with their pivot levels, resistance levels, support levels, buy above levels, sell below levels for daily, weekly & monthly data.",
+      "author": "Moneytreerobo",
+      "keywords": "nifty levels today, bank nifty levels today, nifty levels tomorrow, chart, nifty chart, bank nifty chart, wipro chart, tcs chart, reliance chart, support & resistance",
+      "canonical":"https://www.mntreecapital.com/chart-and-price"
+    },
+    "hourlyGainerLooser" :{
+      "title" :"Hourly gainer loser stocks I 15 minutes gainer loser stocks",
+      "description":"Get hourly gainer loser stocks, 5 minutes, 15 minutes, 10 minutes gainer loser stocks. Best stocks for for intraday & swing trading stocks.",
+      "author": "Moneytreerobo",
+      "keywords": "best stocks for intraday, best stocks for swing trading, best stocks for positional stocks",
+      "canonical":"https://www.mntreecapital.com/hourly-gainer-looser"
+    },
+    "portfolioAnalysis" :{
+      "title" :"How to do portfolio analysis I How to select best stocks for portfolio",
+      "description":"Get the best stocks for your portfolio by robo. Analyze performance of chosen stocks. Get the idea which stocks to exit & which stocks to add.",
+      "author": "Moneytreerobo",
+      "keywords": "portfolio analysis, best stocks for long term, best stocks for short term, best stocks for swing trading, best stocks for intraday trading",
+      "canonical":"https://www.mntreecapital.com/portfolio-analysis"
+      },
+    "portfolioAnalysisPerformance" :{
+      "title" :"Performance analysis of portfolio I How to check analyze portfolio performance",
+      "description":"Analyze performance of portfolio. Find the best stocks to add and worst stocks to exit.",
+      "author": "Moneytreerobo",
+      "keywords": "best performing stocks, best portfolio analysis technique, best way to create portfolio",
+      "canonical":"https://www.mntreecapital.com/portfolio-analysis/performance"
+      },
+      "article" :{
+      "title" :"Articles",
+      "description":"Articles",
+      "author": "Moneytreerobo",
+      "keywords": "",
+      "canonical":"https://www.mntreecapital.com/articles"
+      },
+    "optionChainAnalysis" :{
+      "title" :"Analysis I Option Analysis I Stocks Analysis - Money tree Robo",
+      "description":"Find the best way to do option analysis, future stocks analysis, stock analysis. Analyze volume, open interest in future stocks & find direction in a very easy way.",
+      "author": "Moneytreerobo",
+      "keywords": "analysis, option analysis, stock analysis, share market analysis, stock market analysis",
+      "canonical":"https://mntreecapital.com/option-chain/analysis/"
+      },
+    "optionChainOptionTips" :{
+      "title" :"Option Trading I Trade in Stocks-Money Tree robo",
+      "description":"Get live option trading ideas for index like bank nifty, nifty 50, future stocks option. Also find target, stop loss, entry levels for index option & stock option trading.",
+      "author": "Moneytreerobo",
+      "keywords": "option trading, trade in stocks, stock options trading, best stocks for options trading, option trading tips",
+      "canonical":"https://mntreecapital.com/option-chain/option-tips"
+      },
+    "optionChainLiveOptionTips" :{
+      "title" :"Live option tips I Live nifty 50 option trading tips I Live stock option",
+      "description":"Get live option trading ideas for stocks , index like bank nifty, nifty 50, stocks option. Also find target, stop loss, entry levels for every strike index option & stock option trading.",
+      "author": "Moneytreerobo",
+      "keywords": "live option trading, live stock option tips",
+      "canonical":"https://mntreecapital.com/option-chain/live-option-tips"
+      },
+    "optionDataHistorical" :{
+      "title" :"Option historical data I Option data I Nifty 50 option I Banknifty option",
+      "description":"Find the option historical data, option data for stocks, index option for every strike price of nifty & bank nifty option trading.",
+      "author": "Moneytreerobo",
+      "keywords": "option historical data, option data, historical option prices, option data historical",
+      "canonical":"https://mntreecapital.com/option-data-historical"
+      },
+    "optionDashboard" :{
+      "title" :"Option trading dashboard I Option Screener- Money Tree Robo",
+      "description":"Find the best option trading dashboard for your option trading in stocks & index option. Easiest way to grab the option opportunities with the help of this option dashboard. It is a quick option scanning tool.",
+      "author": "Moneytreerobo",
+      "keywords": "option dashboard, option screener, option trading",
+      "canonical":"https://mntreecapital.com/option-dashboard"
+      },
+    "heightestOiHistory" :{
+      "title" :"Highest Open interest I Highest open interest options I High open interest stocks",
+      "description":"Find easily the highest open interest options, high open interest stocks. Find patterns of highest open interest in stocks & index through historical data. Analyze how the highest OI changes to different strike prices.",
+      "author": "Moneytreerobo",
+      "keywords": "highest open interest, highest open interest options, high open interest stocks, stocks with highest open interest",
+      "canonical":"https://mntreecapital.com/option-chain/heightest-oi-history"
+      },
+    "optionTradingTerminal" :{
+      "title" :"Best trading terminal for option trading I Best trading terminal",
+      "description":"Get the best trading terminal for option trading for stocks & index options. Find also the best stock trading terminal for equity on money tree robo website.",
+      "author": "Moneytreerobo",
+      "keywords": "best stock for option trading, option trading terminal",
+      "canonical":"https://mntreecapital.com/option-chain/option-trading-terminal"
+      },
+    "optionStrategy" :{
+      "title" :"Option Trading Strategies I Option Strategy-Money tree robo",
+      "description":"Find 52 option trading strategies with daily new ideas for index options & stock options. Also find entry level, exit levels, support & targets for every strike price of index options & stock options.",
+      "author": "Moneytreerobo",
+      "keywords": "Option trading strategies, option strategy, best option strategy, index options, stock options, bull call spread, bull put spread, bull call spread strategy, long call butterfly strategy",
+      "canonical":"https://mntreecapital.com/option-chain/option-strategy"
+      },
+    "optionScreener" :{
+      "title" :"Best Option Screener for Index I Best stock trading options- Money tree robo",
+      "description":"Unique & amazing option screener for index option, stock options. Get an easy filter for long buildup, short buildup, long unwinding, short covering strike price of stocks & index.",
+      "author": "Moneytreerobo",
+      "keywords": "option screener, long build up , long unwinding, short build up, short covering, best option trading",
+      "canonical":"https://mntreecapital.com/option-screener"
+      },
+    "high52" :{
+      "title" :"52 Week High share, 52 Week Low Shares-Money Tree Robo",
+      "description":"52 Week High stocks: Get 52 week high share breaking with good delivery volume and 52 week low shares with good fundamentals & discover more.",
+      "author": "Moneytreerobo",
+      "keywords": "52 week high share, 52 week low shares, stocks with 52 week high, stocks with 52 week low, stocks hitting 52 week high, stocks hitting 52 week low, 52 week high low, stocks with 52 week low, stocks with 52 week high, 52 week high share, 52 week low shares, 52 week high, 52 week high stocks, 52 week high nse, 52 week high nse stocks, 52 week low good stocks, near 52 week high stocks, shares 52 week high, share 52 week high, 52 week high stocks chartink, 52 week high breakout stocks, 52 week high stock screener, 52 week high stocks today, 52 week high bse",
+      "canonical":"https://mntreecapital.com/52-week-high-stocks"
+      },
+    "low52" :{
+      "title" :"52 Week High share, 52 Week Low Shares-Money Tree Robo",
+      "description":"52 Week High stocks: Get 52 week high share breaking with good delivery volume and 52 week low shares with good fundamentals & discover more.",
+      "author": "Moneytreerobo",
+      "keywords": "52 week high share, 52 week low shares, stocks with 52 week high, stocks with 52 week low, stocks hitting 52 week high, stocks hitting 52 week low, 52 week high low, stocks with 52 week low, stocks with 52 week high, 52 week high share, 52 week low shares, 52 week high, 52 week high stocks, 52 week high nse, 52 week high nse stocks, 52 week low good stocks, near 52 week high stocks, shares 52 week high, share 52 week high, 52 week high stocks chartink, 52 week high breakout stocks, 52 week high stock screener, 52 week high stocks today, 52 week high bse",
+      "canonical":"https://mntreecapital.com/52-week-low-stocks"
+      },
+    "topGainers" :{
+      "title" :"Top Gainers Today NSE, Top Gainers Share Today-Money Tree Robo",
+      "description":"Top Gainers Today NSE: Get nse top gainers today with delivery volume, news and more information. Find top gainers share today, breakout stocks, breakout stocks screener & discover more.",
+      "author": "Moneytreerobo",
+      "keywords": "top gainers today nse, nse top gainers today, top gainers share today, top gainer in nifty, top gainers et, top gainers, top gainers today, top gainer and loser today, top gainers nse, top gainers bse, top gainers tomorrow, top gainers in nse, top gainers of nse today, bse top gainer, top gainers stocks today, top gainers penny stocks",
+      "canonical":"https://mntreecapital.com/nse-top-gainers"
+      },
+    "topLosers" :{
+      "title" :"Top Losers Today NSE, Top Losers NSE-Money Tree Robo",
+      "description":"Top Losers NSE: Get nse top losers today with delivery volume, news and more information. Find top losers share today, breakdown stocks & discover more",
+      "author": "Moneytreerobo",
+      "keywords": "top losers today nse, top losers nse, nse top losers today, top losers share today, top loser in nifty, top losers et, top losers, top losers today, top gainer and loser today, top losers nse, top losers bse, top losers tomorrow, top losers in nse, top losers of nse today, bse top loser, top losers stocks today",
+      "canonical":"https://mntreecapital.com/top-losers-nse"
+      },
+    "deliveryBreakout" :{
+      "title" :"High Delivery Volume, Breakout Stocks, Today Breakout Stocks",
+      "description":"Get high delivery volume stocks with live prices, volume information and many technical parameters. Here you will find specially delivery volume breakout stocks. Explore and get more.",
+      "author": "Moneytreerobo",
+      "keywords": "High Delivery Volume, Breakout Stocks, Today Breakout Stocks, positive breakout stocks for tomorrow, breakout stocks chartink, breakout stocks screener, breakout stocks for tomorrow, high volume and high delivery stocks",
+      "canonical":"https://mntreecapital.com//breakout-stocks"
+      },
+    "allTimeHighStocks" :{
+      "title" :"All Time High Stocks I Stocks at All Time High - Money Tree Robo",
+      "description":"Get all time high stocks from nse list. You will get many stock ideas for the next trading day by analyzing the stocks at all time high.",
+      "author": "Moneytreerobo",
+      "keywords": "all time high stocks, stocks at all time high, all time high nifty, all time high of nifty",
+      "canonical":"https://mntreecapital.com/market/all-time-high-stocks"
+      },
+    "basicOfStocks" :{
+        "title" :"Indian Stock Market, Stock Exchange of India-Money Tree Robo",
+        "description":"Indian Stock Market : Get Indian stock market indices live price for stock exchange of india. Learn stock market secrets. Understand basics of stock market & Discover more.",
+        "author": "Moneytreerobo",
+        "keywords": "indian stock market, indian stock market today, indian stock market time, indian stock hours, Stock exchange of india, timings of stock market india, stock market hours india, indian stock market time, stock market india time, indian stock market timing, indian stock market best app, stock market in india open today, stock market india, stock market india nse, today stock market india",
+        "canonical":"https://mntreecapital.com/market/all-time-high-stocks"
+        },
+    "link" :{
+      "title" :"",
+      "description":"",
+      "author": "Moneytreerobo",
+      "keywords": "",
+      "canonical":""
+      }
+}
